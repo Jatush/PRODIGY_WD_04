@@ -27,3 +27,28 @@ WeatherApp is a sleek and intuitive web application designed to provide accurate
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/WeatherApp.git
+
+2. **Navigate to the Project:**
+   ```bash
+   cd WeatherApp
+3. Open index.html in Your Browser:
+
+4. Double-click on the index.html file or open it using your preferred web browser.
+   Start Exploring:
+
+Explore the app, check the weather for your city, and experience the elegant design firsthand.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- [OpenWeatherMap API](https://openweathermap.org/api) for weather data
+
+## Acknowledgments
+
+   Special thanks to Youtube videos, Online resources and A.I tools   
+
+🌦️ **WeatherApp** – Bringing Elegance to Weather Forecasting 🌦️
+
+Connect with me on LinkedIn: (www.linkedin.com/in/jatush-hingu)
