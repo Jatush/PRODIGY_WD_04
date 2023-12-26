@@ -36,7 +36,7 @@ WeatherApp is a sleek and intuitive web application designed to provide accurate
 4. Double-click on the index.html file or open it using your preferred web browser.
    Start Exploring:
 
-Explore the app, check the weather for your city, and experience the elegant design firsthand.
+5. Explore the app, check the weather for your city, and experience the elegant design firsthand.
 
 ## Technologies Used
 
